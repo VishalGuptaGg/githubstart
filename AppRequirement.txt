@@ -1,2 +1,3 @@
 image option
 video option
+chat option
