@@ -2,3 +2,7 @@ image option
 video option
 chat option
 imoji option
+
+payment option
+send money
+recieve money
